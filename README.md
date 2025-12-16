@@ -4,6 +4,8 @@
 
 I chose Godot Engine for this project because it is beginner-friendly and runs smoothly.
 
+![Screenshot](vivid_1.png)
+
 ## 🎮 Play the Game
 
 The game is available to play for free on itch.io:
